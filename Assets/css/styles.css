@@ -1,6 +1,8 @@
+body{ background-color: white;
+}
 .mx{
-    margin-left: 3px;
-    margin-right: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .mtb{
@@ -8,6 +10,10 @@
     margin-bottom: 200px;
 }
 
+.skills{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 .Avatar{
     width: 500px;
     display: block;
@@ -15,4 +21,12 @@
 .blue  {
     background-color: blue;
     color: blue;
+}
+
+.jumbotron{
+    background-color:rgb(105, 98, 98);
+    color: whitesmoke;
+}
+.header-text{
+    color:black;
 }
