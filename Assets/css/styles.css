@@ -30,3 +30,16 @@ body{ background-color: white;
 .header-text{
     color:black;
 }
+.header-font{
+    font-size: 4.2rem;
+    font-weight: bolder;
+}
+.work-border{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card-border{
+    margin-left: 20px;
+    margin-right: 20px;
+}
